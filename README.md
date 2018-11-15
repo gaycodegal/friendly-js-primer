@@ -189,3 +189,9 @@ Javascript provides powerful tools to deal with asyncronous tasks through promis
 ### Things to Google
 
     Javascript Promise tutorial
+
+# Tools
+
+- [git](http://github.com)
+- For non-chromebooks [an editor named Brackets](http://brackets.io/)
+- For chromebooks just go on the chrome web store, search javascript editor, and pick one.
