@@ -10,22 +10,22 @@ This is intended as a guide for those looking to get into programming for the we
 
 ### Basic
 
-https://www.w3schools.com/
-https://stackoverflow.com/
+- https://www.w3schools.com/
+- https://stackoverflow.com/
 
 
 ### Advanced
 
-https://developers.google.com/web/fundamentals/
-https://developers.google.com/web/
+- https://developers.google.com/web/fundamentals/
+- https://developers.google.com/web/
 
 
 ## If you're having trouble running code
 
 If you're having trouble running code you could try the following sites.
 
-https://codepen.io/
-https://jsfiddle.net/
+- https://codepen.io/
+- https://jsfiddle.net/
 
 
 ## *BASIC* Console
